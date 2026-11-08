@@ -1155,7 +1155,11 @@
     "ContextMenu-ShowNLocalBranches": "{0} 個のブランチを表示",
     "ContextMenu-SoloNLocalBranches": "{0} 個のブランチのみ表示",
     "ContextMenu-ShowNStashes": "{0} 件のスタッシュを表示",
+<<<<<<< HEAD
     "ContextMenu-SquashCommit": "コミットを纏める",
+=======
+    "ContextMenu-SquashCommit": "コミットをまとめる",
+>>>>>>> origin/main
     "ContextMenu-StartPullRequestFromY": "{0} から Pull Request を作成",
     "ContextMenu-StartPullRequestToX": "{0} への Pull Request を作成",
     "ContextMenu-StartPullRequestToXFromY": "{1} から {0} への Pull Request を作成",
@@ -1163,7 +1167,11 @@
     "ContextMenu-StashDelete": "Delete Stash",
     "ContextMenu-StashPop": "Pop Stash",
     "ContextMenu-StopSoloingNLocalBranches": "{0} 個のブランチの単独表示を解除",
+<<<<<<< HEAD
     "ContextMenu-SquashXCommits": "{0} 件のコミットをスカッシュ",
+=======
+    "ContextMenu-SquashXCommits": "{0} 件のコミットをまとめる",
+>>>>>>> origin/main
     "ContextMenu-UnfavoriteRepository": "お気に入りから解除",
     "ContextMenu-ViewServiceRemoteInBrowser": "{1} で {0} を表示",
 
