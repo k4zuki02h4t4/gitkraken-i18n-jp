@@ -1,0 +1,1 @@
+# gitkraken-i18n-jp
